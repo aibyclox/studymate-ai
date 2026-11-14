@@ -1,0 +1,42 @@
+import * as React from "react";
+import { cn } from "@/lib/utils";
+
+export interface SelectProps
+  extends React.SelectHTMLAttributes<HTMLSelectElement> {
+  error?: string;
+  label?: string;
+}
+
+const Select = React.forwardRef<HTMLSelectElement, SelectProps>(
+  ({ className, children, error, label, id, ...props }, ref) => {
+    return (
+      <div className="w-full space-y-1.5">
+        {label && (
+          <label
+            htmlFor={id}
+            className="block text-xs font-semibold uppercase tracking-wider text-slate-600 dark:text-slate-400"
+          >
+            {label}
+          </label>
+        )}
+        <select
+          id={id}
+          className={cn(
+            "flex h-10 w-full rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 shadow-sm transition-colors focus-visible:border-indigo-500 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-indigo-500 disabled:cursor-not-allowed disabled:opacity-50 dark:border-slate-800 dark:bg-slate-950 dark:text-slate-100",
+            error && "border-red-500 focus-visible:ring-red-500",
+            className
+          )}
+          ref={ref}
+          {...props}
+        >
+          {children}
+        </select>
+        {error && <p className="text-xs text-red-600 dark:text-red-400">{error}</p>}
+      </div>
+    );
+  }
+);
+Select.displayName = "Select";
+
+export { Select };
+

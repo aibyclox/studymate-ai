@@ -1,0 +1,1257 @@
+{
+  "users": [
+    {
+      "id": "usr_demo_studymate_101",
+      "email": "demo@studymate.ai",
+      "password_hash": "password123",
+      "full_name": "Alex Mercer",
+      "created_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "usr_1794656567927_mvoiy",
+      "email": "student123@example.com",
+      "password_hash": "mypassword",
+      "full_name": "Test Student",
+      "created_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "usr_1794656804035_ssjin",
+      "email": "sushantkakhandki238@gmail.com",
+      "password_hash": "12345678",
+      "full_name": "Sushant K",
+      "created_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "usr_1794659845403_68snr",
+      "email": "shreekakhandki27@gmail.com",
+      "password_hash": "123456789",
+      "full_name": "vinay",
+      "created_at": "2026-11-14T12:37:25.403Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "usr_demo_studymate_101",
+      "full_name": "Alex Mercer",
+      "college": "Stanford School of Engineering",
+      "course": "B.Tech",
+      "branch": "Computer Science & Engineering",
+      "current_semester": 5,
+      "avatar_url": null,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "usr_1794656567927_mvoiy",
+      "full_name": "Test Student",
+      "college": "University Student",
+      "course": "B.Tech",
+      "branch": "Computer Science",
+      "current_semester": 1,
+      "avatar_url": null,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "usr_1794656804035_ssjin",
+      "full_name": "Sushant K",
+      "college": "basaveshwar engineering college",
+      "course": "B.Tech / B.E.",
+      "branch": "Computer Science & Engineering",
+      "current_semester": 5,
+      "avatar_url": null,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:47:56.550Z"
+    },
+    {
+      "id": "usr_1794659845403_68snr",
+      "full_name": "vinay",
+      "college": "Basaveshwar Engineering College (BEC), Bagalkot",
+      "course": "B.E. / B.Tech (VTU)",
+      "branch": "Artificial Intelligence & Machine Learning (AI & ML)",
+      "current_semester": 5,
+      "avatar_url": null,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:38:16.287Z"
+    }
+  ],
+  "semesters": [
+    {
+      "id": "sem_1",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 1,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_2",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 2,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_3",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 3,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_4",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 4,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_5",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 5,
+      "academic_year": "2026-2027",
+      "is_current": true,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_6",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 6,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_7",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 7,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_8",
+      "user_id": "usr_demo_studymate_101",
+      "semester_number": 8,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T12:55:23.684Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_1",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 1,
+      "academic_year": "2026-2027",
+      "is_current": true,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_2",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 2,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_3",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 3,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_4",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 4,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_5",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 5,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_6",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 6,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_7",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 7,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656567927_mvoiy_8",
+      "user_id": "usr_1794656567927_mvoiy",
+      "semester_number": 8,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:42:47.927Z",
+      "updated_at": "2026-11-14T11:42:47.927Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_1",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 1,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_2",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 2,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_3",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 3,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_4",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 4,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_5",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 5,
+      "academic_year": "2026-2027",
+      "is_current": true,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_6",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 6,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_7",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 7,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794656804035_ssjin_8",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_number": 8,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T11:46:44.035Z",
+      "updated_at": "2026-11-14T11:46:44.035Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_1",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 1,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_2",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 2,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_3",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 3,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_4",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 4,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_5",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 5,
+      "academic_year": "2026-2027",
+      "is_current": true,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_6",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 6,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_7",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 7,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    },
+    {
+      "id": "sem_usr_1794659845403_68snr_8",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_number": 8,
+      "academic_year": "2026-2027",
+      "is_current": false,
+      "created_at": "2026-11-14T12:37:25.403Z",
+      "updated_at": "2026-11-14T12:37:25.403Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "sub_1794659896407_01hd",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_id": "sem_5",
+      "name": "Research Methodology and IPR",
+      "code": "BRMK557",
+      "color": "#475569",
+      "icon": "BookOpen",
+      "description": null,
+      "created_at": "2026-11-14T12:38:16.407Z",
+      "updated_at": "2026-11-14T12:38:16.407Z"
+    },
+    {
+      "id": "sub_1794659896348_9r86",
+      "user_id": "usr_1794659845403_68snr",
+      "semester_id": "sem_5",
+      "name": "Artificial Intelligence",
+      "code": "BCS515A",
+      "color": "#d97706",
+      "icon": "BookOpen",
+      "description": null,
+      "created_at": "2026-11-14T12:38:16.348Z",
+      "updated_at": "2026-11-14T12:38:16.348Z"
+    },
+    {
+      "id": "sub_1794656876708_c85r",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_id": "sem_5",
+      "name": "Machine Learning",
+      "code": null,
+      "color": "#059669",
+      "icon": "BookOpen",
+      "description": null,
+      "created_at": "2026-11-14T11:47:56.708Z",
+      "updated_at": "2026-11-14T11:47:56.708Z"
+    },
+    {
+      "id": "sub_1794656876664_zwkk",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_id": "sem_5",
+      "name": "Computer Networks",
+      "code": null,
+      "color": "#7c3aed",
+      "icon": "BookOpen",
+      "description": null,
+      "created_at": "2026-11-14T11:47:56.664Z",
+      "updated_at": "2026-11-14T11:47:56.664Z"
+    },
+    {
+      "id": "sub_1794656876606_8to2",
+      "user_id": "usr_1794656804035_ssjin",
+      "semester_id": "sem_5",
+      "name": "Database Management Systems",
+      "code": null,
+      "color": "#4f46e5",
+      "icon": "BookOpen",
+      "description": null,
+      "created_at": "2026-11-14T11:47:56.606Z",
+      "updated_at": "2026-11-14T11:47:56.606Z"
+    },
+    {
+      "id": "sub_1794656636851_awoz",
+      "user_id": "usr_demo_studymate_101",
+      "semester_id": "sem_5",
+      "name": "Software Engineering",
+      "code": "CS504",
+      "color": "#0d9488",
+      "icon": "BookOpen",
+      "description": null,
+      "created_at": "2026-11-14T11:43:56.851Z",
+      "updated_at": "2026-11-14T11:43:56.851Z"
+    },
+    {
+      "id": "sub_dbms_101",
+      "user_id": "usr_demo_studymate_101",
+      "semester_id": "sem_5",
+      "name": "Database Management Systems",
+      "code": "CS501",
+      "color": "#4f46e5",
+      "icon": "BookOpen",
+      "description": "Relational models, SQL, Normalization, Transactions & Concurrency control.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "sub_ml_102",
+      "user_id": "usr_demo_studymate_101",
+      "semester_id": "sem_5",
+      "name": "Machine Learning",
+      "code": "CS502",
+      "color": "#7c3aed",
+      "icon": "BookOpen",
+      "description": "Supervised, Unsupervised learning, Neural Networks, Ensemble Methods.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "sub_cn_103",
+      "user_id": "usr_demo_studymate_101",
+      "semester_id": "sem_5",
+      "name": "Computer Networks",
+      "code": "CS503",
+      "color": "#0284c7",
+      "icon": "BookOpen",
+      "description": "OSI & TCP/IP stack, Routing protocols, Transport layer reliability, DNS.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    }
+  ],
+  "units": [
+    {
+      "id": "unit_dbms_1",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_dbms_101",
+      "unit_number": 1,
+      "title": "Introduction & Database Architecture",
+      "description": "Three-schema architecture, Data independence, ER modeling.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_dbms_2",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_dbms_101",
+      "unit_number": 2,
+      "title": "Relational Model & Normalization",
+      "description": "Functional dependencies, 1NF, 2NF, 3NF, BCNF, Multi-valued dependencies.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_dbms_3",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_dbms_101",
+      "unit_number": 3,
+      "title": "SQL & Relational Calculus",
+      "description": "Complex queries, Subqueries, Joins, Relational Algebra.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_dbms_4",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_dbms_101",
+      "unit_number": 4,
+      "title": "Transaction Processing & Concurrency",
+      "description": "ACID properties, Serializability, Two-phase locking (2PL), Deadlocks.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_ml_1",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_ml_102",
+      "unit_number": 1,
+      "title": "Introduction to Learning & Linear Models",
+      "description": "Linear Regression, Logistic Regression, Cost functions, Gradient Descent.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_ml_2",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_ml_102",
+      "unit_number": 2,
+      "title": "Tree Models & Ensemble Learning",
+      "description": "Decision Trees, Random Forests, AdaBoost, Gradient Boosting.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_cn_1",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_cn_103",
+      "unit_number": 1,
+      "title": "Network Fundamentals & Physical Layer",
+      "description": "OSI 7-layer model, TCP/IP reference model, Transmission media.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_cn_2",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_cn_103",
+      "unit_number": 2,
+      "title": "Data Link Layer & MAC Protocols",
+      "description": "Error detection (CRC), Sliding window protocols, CSMA/CD, Ethernet.",
+      "created_at": "2026-11-14T11:42:36.108Z",
+      "updated_at": "2026-11-14T11:42:36.108Z"
+    },
+    {
+      "id": "unit_sub_1794656636851_awoz_1",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_1794656636851_awoz",
+      "unit_number": 1,
+      "title": "Unit 1",
+      "description": "Syllabus topics for Unit 1",
+      "created_at": "2026-11-14T11:43:56.851Z",
+      "updated_at": "2026-11-14T11:43:56.851Z"
+    },
+    {
+      "id": "unit_sub_1794656636851_awoz_2",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_1794656636851_awoz",
+      "unit_number": 2,
+      "title": "Unit 2",
+      "description": "Syllabus topics for Unit 2",
+      "created_at": "2026-11-14T11:43:56.851Z",
+      "updated_at": "2026-11-14T11:43:56.851Z"
+    },
+    {
+      "id": "unit_sub_1794656636851_awoz_3",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_1794656636851_awoz",
+      "unit_number": 3,
+      "title": "Unit 3",
+      "description": "Syllabus topics for Unit 3",
+      "created_at": "2026-11-14T11:43:56.851Z",
+      "updated_at": "2026-11-14T11:43:56.851Z"
+    },
+    {
+      "id": "unit_sub_1794656636851_awoz_4",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_1794656636851_awoz",
+      "unit_number": 4,
+      "title": "Unit 4",
+      "description": "Syllabus topics for Unit 4",
+      "created_at": "2026-11-14T11:43:56.851Z",
+      "updated_at": "2026-11-14T11:43:56.851Z"
+    },
+    {
+      "id": "unit_sub_1794656636851_awoz_5",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_1794656636851_awoz",
+      "unit_number": 5,
+      "title": "Unit 5",
+      "description": "Syllabus topics for Unit 5",
+      "created_at": "2026-11-14T11:43:56.851Z",
+      "updated_at": "2026-11-14T11:43:56.851Z"
+    },
+    {
+      "id": "unit_sub_1794656876606_8to2_1",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876606_8to2",
+      "unit_number": 1,
+      "title": "Unit 1",
+      "description": "Syllabus topics for Unit 1",
+      "created_at": "2026-11-14T11:47:56.606Z",
+      "updated_at": "2026-11-14T11:47:56.606Z"
+    },
+    {
+      "id": "unit_sub_1794656876606_8to2_2",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876606_8to2",
+      "unit_number": 2,
+      "title": "Unit 2",
+      "description": "Syllabus topics for Unit 2",
+      "created_at": "2026-11-14T11:47:56.606Z",
+      "updated_at": "2026-11-14T11:47:56.606Z"
+    },
+    {
+      "id": "unit_sub_1794656876606_8to2_3",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876606_8to2",
+      "unit_number": 3,
+      "title": "Unit 3",
+      "description": "Syllabus topics for Unit 3",
+      "created_at": "2026-11-14T11:47:56.606Z",
+      "updated_at": "2026-11-14T11:47:56.606Z"
+    },
+    {
+      "id": "unit_sub_1794656876606_8to2_4",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876606_8to2",
+      "unit_number": 4,
+      "title": "Unit 4",
+      "description": "Syllabus topics for Unit 4",
+      "created_at": "2026-11-14T11:47:56.606Z",
+      "updated_at": "2026-11-14T11:47:56.606Z"
+    },
+    {
+      "id": "unit_sub_1794656876606_8to2_5",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876606_8to2",
+      "unit_number": 5,
+      "title": "Unit 5",
+      "description": "Syllabus topics for Unit 5",
+      "created_at": "2026-11-14T11:47:56.606Z",
+      "updated_at": "2026-11-14T11:47:56.606Z"
+    },
+    {
+      "id": "unit_sub_1794656876664_zwkk_1",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876664_zwkk",
+      "unit_number": 1,
+      "title": "Unit 1",
+      "description": "Syllabus topics for Unit 1",
+      "created_at": "2026-11-14T11:47:56.664Z",
+      "updated_at": "2026-11-14T11:47:56.664Z"
+    },
+    {
+      "id": "unit_sub_1794656876664_zwkk_2",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876664_zwkk",
+      "unit_number": 2,
+      "title": "Unit 2",
+      "description": "Syllabus topics for Unit 2",
+      "created_at": "2026-11-14T11:47:56.664Z",
+      "updated_at": "2026-11-14T11:47:56.664Z"
+    },
+    {
+      "id": "unit_sub_1794656876664_zwkk_3",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876664_zwkk",
+      "unit_number": 3,
+      "title": "Unit 3",
+      "description": "Syllabus topics for Unit 3",
+      "created_at": "2026-11-14T11:47:56.664Z",
+      "updated_at": "2026-11-14T11:47:56.664Z"
+    },
+    {
+      "id": "unit_sub_1794656876664_zwkk_4",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876664_zwkk",
+      "unit_number": 4,
+      "title": "Unit 4",
+      "description": "Syllabus topics for Unit 4",
+      "created_at": "2026-11-14T11:47:56.664Z",
+      "updated_at": "2026-11-14T11:47:56.664Z"
+    },
+    {
+      "id": "unit_sub_1794656876664_zwkk_5",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876664_zwkk",
+      "unit_number": 5,
+      "title": "Unit 5",
+      "description": "Syllabus topics for Unit 5",
+      "created_at": "2026-11-14T11:47:56.664Z",
+      "updated_at": "2026-11-14T11:47:56.664Z"
+    },
+    {
+      "id": "unit_sub_1794656876708_c85r_1",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876708_c85r",
+      "unit_number": 1,
+      "title": "Unit 1",
+      "description": "Syllabus topics for Unit 1",
+      "created_at": "2026-11-14T11:47:56.708Z",
+      "updated_at": "2026-11-14T11:47:56.708Z"
+    },
+    {
+      "id": "unit_sub_1794656876708_c85r_2",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876708_c85r",
+      "unit_number": 2,
+      "title": "Unit 2",
+      "description": "Syllabus topics for Unit 2",
+      "created_at": "2026-11-14T11:47:56.708Z",
+      "updated_at": "2026-11-14T11:47:56.708Z"
+    },
+    {
+      "id": "unit_sub_1794656876708_c85r_3",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876708_c85r",
+      "unit_number": 3,
+      "title": "Unit 3",
+      "description": "Syllabus topics for Unit 3",
+      "created_at": "2026-11-14T11:47:56.708Z",
+      "updated_at": "2026-11-14T11:47:56.708Z"
+    },
+    {
+      "id": "unit_sub_1794656876708_c85r_4",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876708_c85r",
+      "unit_number": 4,
+      "title": "Unit 4",
+      "description": "Syllabus topics for Unit 4",
+      "created_at": "2026-11-14T11:47:56.708Z",
+      "updated_at": "2026-11-14T11:47:56.708Z"
+    },
+    {
+      "id": "unit_sub_1794656876708_c85r_5",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876708_c85r",
+      "unit_number": 5,
+      "title": "Unit 5",
+      "description": "Syllabus topics for Unit 5",
+      "created_at": "2026-11-14T11:47:56.708Z",
+      "updated_at": "2026-11-14T11:47:56.708Z"
+    },
+    {
+      "id": "unit_sub_1794659896348_9r86_1",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896348_9r86",
+      "unit_number": 1,
+      "title": "Unit 1",
+      "description": "Syllabus topics for Unit 1",
+      "created_at": "2026-11-14T12:38:16.348Z",
+      "updated_at": "2026-11-14T12:38:16.348Z"
+    },
+    {
+      "id": "unit_sub_1794659896348_9r86_2",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896348_9r86",
+      "unit_number": 2,
+      "title": "Unit 2",
+      "description": "Syllabus topics for Unit 2",
+      "created_at": "2026-11-14T12:38:16.348Z",
+      "updated_at": "2026-11-14T12:38:16.348Z"
+    },
+    {
+      "id": "unit_sub_1794659896348_9r86_3",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896348_9r86",
+      "unit_number": 3,
+      "title": "Unit 3",
+      "description": "Syllabus topics for Unit 3",
+      "created_at": "2026-11-14T12:38:16.348Z",
+      "updated_at": "2026-11-14T12:38:16.348Z"
+    },
+    {
+      "id": "unit_sub_1794659896348_9r86_4",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896348_9r86",
+      "unit_number": 4,
+      "title": "Unit 4",
+      "description": "Syllabus topics for Unit 4",
+      "created_at": "2026-11-14T12:38:16.348Z",
+      "updated_at": "2026-11-14T12:38:16.348Z"
+    },
+    {
+      "id": "unit_sub_1794659896348_9r86_5",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896348_9r86",
+      "unit_number": 5,
+      "title": "Unit 5",
+      "description": "Syllabus topics for Unit 5",
+      "created_at": "2026-11-14T12:38:16.348Z",
+      "updated_at": "2026-11-14T12:38:16.348Z"
+    },
+    {
+      "id": "unit_sub_1794659896407_01hd_1",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896407_01hd",
+      "unit_number": 1,
+      "title": "Unit 1",
+      "description": "Syllabus topics for Unit 1",
+      "created_at": "2026-11-14T12:38:16.407Z",
+      "updated_at": "2026-11-14T12:38:16.407Z"
+    },
+    {
+      "id": "unit_sub_1794659896407_01hd_2",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896407_01hd",
+      "unit_number": 2,
+      "title": "Unit 2",
+      "description": "Syllabus topics for Unit 2",
+      "created_at": "2026-11-14T12:38:16.407Z",
+      "updated_at": "2026-11-14T12:38:16.407Z"
+    },
+    {
+      "id": "unit_sub_1794659896407_01hd_3",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896407_01hd",
+      "unit_number": 3,
+      "title": "Unit 3",
+      "description": "Syllabus topics for Unit 3",
+      "created_at": "2026-11-14T12:38:16.407Z",
+      "updated_at": "2026-11-14T12:38:16.407Z"
+    },
+    {
+      "id": "unit_sub_1794659896407_01hd_4",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896407_01hd",
+      "unit_number": 4,
+      "title": "Unit 4",
+      "description": "Syllabus topics for Unit 4",
+      "created_at": "2026-11-14T12:38:16.407Z",
+      "updated_at": "2026-11-14T12:38:16.407Z"
+    },
+    {
+      "id": "unit_sub_1794659896407_01hd_5",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": "sub_1794659896407_01hd",
+      "unit_number": 5,
+      "title": "Unit 5",
+      "description": "Syllabus topics for Unit 5",
+      "created_at": "2026-11-14T12:38:16.407Z",
+      "updated_at": "2026-11-14T12:38:16.407Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_1794662791962_axa8",
+      "user_id": "usr_1794659845403_68snr",
+      "subject_id": null,
+      "unit_id": null,
+      "title": "VTU Module 2 Routing Notes",
+      "file_name": "VTU_Sample_Module2_Notes.txt",
+      "file_path": "uploads/usr_1794659845403_68snr_1794662791962_VTU_Sample_Module2_Notes.txt",
+      "file_size": 63,
+      "file_type": "txt",
+      "storage_bucket": "study-materials",
+      "status": "ready",
+      "created_at": "2026-11-14T13:26:31.968Z",
+      "updated_at": "2026-11-14T13:26:31.968Z"
+    },
+    {
+      "id": "doc_1794661626305_gu3j",
+      "user_id": "usr_1794656804035_ssjin",
+      "subject_id": "sub_1794656876708_c85r",
+      "unit_id": null,
+      "title": "DBMS UNIT2 QUESTIONS LIST",
+      "file_name": "DBMS UNIT2 QUESTIONS LIST.docx",
+      "file_path": "uploads/usr_1794656804035_ssjin_1794661626305_DBMS_UNIT2_QUESTIONS_LIST.docx",
+      "file_size": 26972,
+      "file_type": "docx",
+      "storage_bucket": "study-materials",
+      "status": "ready",
+      "created_at": "2026-11-14T13:07:06.313Z",
+      "updated_at": "2026-11-14T13:07:06.313Z"
+    },
+    {
+      "id": "doc_dbms_norm_101",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_dbms_101",
+      "unit_id": "unit_dbms_2",
+      "title": "DBMS Unit 2: Normalization & Functional Dependencies",
+      "file_name": "DBMS_Unit2_Normalization.pdf",
+      "file_path": "demo/DBMS_Unit2_Normalization.pdf",
+      "file_size": 2450000,
+      "file_type": "pdf",
+      "storage_bucket": "study-materials",
+      "status": "ready",
+      "created_at": "2026-11-12T11:42:36.108Z",
+      "updated_at": "2026-11-12T11:42:36.108Z",
+      "subject_name": "Database Management Systems",
+      "subject_color": "#4f46e5",
+      "unit_title": "Relational Model & Normalization",
+      "unit_number": 2
+    },
+    {
+      "id": "doc_ml_trees_102",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_ml_102",
+      "unit_id": "unit_ml_2",
+      "title": "Ensemble Learning & Random Forests Lecture Notes",
+      "file_name": "ML_Ensemble_Methods.docx",
+      "file_path": "demo/ML_Ensemble_Methods.docx",
+      "file_size": 1120000,
+      "file_type": "docx",
+      "storage_bucket": "study-materials",
+      "status": "ready",
+      "created_at": "2026-11-10T11:42:36.108Z",
+      "updated_at": "2026-11-10T11:42:36.108Z",
+      "subject_name": "Machine Learning",
+      "subject_color": "#7c3aed",
+      "unit_title": "Tree Models & Ensemble Learning",
+      "unit_number": 2
+    },
+    {
+      "id": "doc_cn_osi_103",
+      "user_id": "usr_demo_studymate_101",
+      "subject_id": "sub_cn_103",
+      "unit_id": "unit_cn_1",
+      "title": "Computer Networks: OSI 7-Layer Model Reference Guide",
+      "file_name": "OSI_Model_Summary.pptx",
+      "file_path": "demo/OSI_Model_Summary.pptx",
+      "file_size": 3840000,
+      "file_type": "pptx",
+      "storage_bucket": "study-materials",
+      "status": "ready",
+      "created_at": "2026-11-08T11:42:36.108Z",
+      "updated_at": "2026-11-08T11:42:36.108Z",
+      "subject_name": "Computer Networks",
+      "subject_color": "#0284c7",
+      "unit_title": "Network Fundamentals & Physical Layer",
+      "unit_number": 1
+    }
+  ],
+  "questions": [
+    {
+      "id": "ext_doc_1794662791962_axa8_1",
+      "question": "Explain the ISO/OSI Reference Model with a neat diagram. Describe the functions and protocols at each layer.",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 1,
+      "vtu_exam_years": [
+        "July 2023",
+        "Jan 2024",
+        "Dec 2022"
+      ],
+      "repeat_frequency": "Very High (Repeated in almost every session)",
+      "key_marking_points": [
+        "Neat diagram with all 7 layers in correct sequence (Physical to Application) - 3 Marks",
+        "Concise explanation of duties for each layer (Framing, Routing, Flow control, Encryption, Port addressing) - 4 Marks",
+        "Protocols associated with each layer (e.g. IP, TCP/UDP, HTTP, Ethernet) - 3 Marks"
+      ],
+      "sample_answer_hint": "7 Layers: Physical (Bits/Signals) -> Data Link (Frames/MAC) -> Network (Packets/IP) -> Transport (Segments/TCP/UDP) -> Session (Dialog) -> Presentation (Syntax/SSL) -> Application (User/HTTP).",
+      "document_id": "doc_1794662791962_axa8",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1794662791962_axa8_2",
+      "question": "Compare Go-Back-N (GBN) and Selective Repeat (SR) sliding window protocols. Calculate efficiency for a noisy channel.",
+      "priority": "MUST_PREPARE",
+      "marks": 8,
+      "module": 2,
+      "vtu_exam_years": [
+        "Jan 2024",
+        "July 2022"
+      ],
+      "repeat_frequency": "Very High (Direct comparison or numerical)",
+      "key_marking_points": [
+        "Window size differences (Sender/Receiver window for GBN vs SR) - 3 Marks",
+        "Retransmission policy and cumulative vs individual ACK behavior - 3 Marks",
+        "Buffer requirements at the receiver side - 2 Marks"
+      ],
+      "sample_answer_hint": "GBN sender window = N, receiver window = 1. Retransmits all frames after error. Cumulative ACKs. SR sender window = N, receiver window = N. Buffers out-of-order frames, only retransmits lost frame. Individual ACKs.",
+      "document_id": "doc_1794662791962_axa8",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1794662791962_axa8_3",
+      "question": "Explain the working of Distance Vector Routing algorithm with an example network. Describe the Count-to-Infinity problem and its solution.",
+      "priority": "IMPORTANT",
+      "marks": 10,
+      "module": 3,
+      "vtu_exam_years": [
+        "July/Aug 2023",
+        "Jan 2023"
+      ],
+      "repeat_frequency": "High (Core Module 3 topic)",
+      "key_marking_points": [
+        "Bellman-Ford equation and routing table updates - 3 Marks",
+        "Walkthrough with small 3-4 node topology - 3 Marks",
+        "Count-to-Infinity problem explanation - 2 Marks",
+        "Solutions: Split Horizon and Poison Reverse - 2 Marks"
+      ],
+      "sample_answer_hint": "Each router shares distance vectors with immediate neighbors only. Updates routing table using Bellman-Ford: D_x(y) = min_v { c(x,v) + D_v(y) }. Split Horizon prevents routing loops by not sending routes back across the link they were learned from.",
+      "document_id": "doc_1794662791962_axa8",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1794662791962_axa8_4",
+      "question": "Explain the TCP Three-Way Handshake connection establishment and termination processes with state transition timing diagrams.",
+      "priority": "PYQ",
+      "marks": 8,
+      "module": 4,
+      "vtu_exam_years": [
+        "Dec 2022",
+        "July 2021"
+      ],
+      "repeat_frequency": "Standard VTU Pattern",
+      "key_marking_points": [
+        "SYN, SYN-ACK, ACK sequence with sequence number increments - 4 Marks",
+        "Connection teardown using FIN and ACK packets - 2 Marks",
+        "Explanation of TIME-WAIT state and why 2*MSL delay is required - 2 Marks"
+      ],
+      "sample_answer_hint": "Client sends SYN (seq=x) -> Server replies SYN-ACK (seq=y, ack=x+1) -> Client sends ACK (seq=x+1, ack=y+1). Termination: Client sends FIN -> Server sends ACK -> Server sends FIN -> Client sends ACK and enters TIME-WAIT.",
+      "document_id": "doc_1794662791962_axa8",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1",
+      "question": "Define Finite Automata with formal 5-tuples. Design a DFA to accept the language L = {w in {a, b}* | w has an even number of 'a's and an odd number of 'b's}. Draw state diagram and transition table.",
+      "question_no": "Q1 (a)",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 1,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L3 (Apply)",
+      "co_mapping": "CO1",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-1",
+        "Jan/Feb 2025",
+        "July 2024"
+      ],
+      "repeat_frequency": "Very High (Compulsory DFA Design in MQP-1)",
+      "key_marking_points": [
+        "Formal 5-tuple definition: M = (Q, Sigma, delta, q0, F) with explanation of each component (2 Marks)",
+        "Identification of 4 states: q_ee (even a, even b), q_eo (even a, odd b - Final), q_oe (odd a, even b), q_oo (odd a, odd b) (3 Marks)",
+        "Accurate State Transition Diagram with arrows and labels (3 Marks)",
+        "Complete Transition Table verifying sample test strings (2 Marks)"
+      ],
+      "sample_answer_hint": "States: q0=(even a, even b), q1=(even a, odd b, accepting), q2=(odd a, even b), q3=(odd a, odd b). Transitions: from q0, on 'a' goes to q2, on 'b' goes to q1. Verify string 'b' accepted, 'ab' rejected.",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_2",
+      "question": "Convert the following NFA with epsilon-transitions to an equivalent DFA using subset construction method.",
+      "question_no": "Q1 (b)",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 1,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L3 (Apply)",
+      "co_mapping": "CO1",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-1",
+        "2022 Scheme MQP-2",
+        "Jan 2024"
+      ],
+      "repeat_frequency": "High (Core Numerical in Module 1)",
+      "key_marking_points": [
+        "Calculation of epsilon-closure for all states in the NFA (3 Marks)",
+        "Step-by-step subset construction table showing delta'(q_DFA, input) = eps-closure(delta(q_NFA, input)) (4 Marks)",
+        "Final DFA state diagram identifying start state and all states containing original NFA final states (3 Marks)"
+      ],
+      "sample_answer_hint": "DFA start state is eps-closure(q0). For each new DFA state set S and alphabet symbol a, compute delta'(S, a) = eps-closure(union of delta(p, a) for all p in S). Repeat until no new subsets are discovered.",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_3",
+      "question": "State and prove the Pumping Lemma for Regular Languages. Using the Pumping Lemma, prove that the language L = {a^n b^n | n >= 0} is not regular.",
+      "question_no": "Q3 (a)",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 2,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L3 (Apply)",
+      "co_mapping": "CO2",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-1",
+        "Jan/Feb 2025",
+        "July 2024"
+      ],
+      "repeat_frequency": "Very High (MQP-1 Question 3)",
+      "key_marking_points": [
+        "Formal statement of Pumping Lemma: For any regular language L, there exists p >= 1 such that any string s in L with |s| >= p can be written as s = xyz where |xy| <= p, |y| >= 1, and xy^i z in L for all i >= 0 (4 Marks)",
+        "Proof sketch based on Pigeonhole Principle on DFA states (2 Marks)",
+        "Contradiction proof for L = {a^n b^n}: Choice of string s = a^p b^p, decomposition analysis showing y consists of only 'a's, pumping with i=0 or i=2 produces string with unequal a's and b's (4 Marks)"
+      ],
+      "sample_answer_hint": "Assume L is regular; let p be pumping length. Choose s = a^p b^p in L (|s|=2p >= p). By lemma, s=xyz with |xy| <= p, meaning y = a^k (k >= 1). Pump with i=2: xy^2 z = a^(p+k) b^p. Since p+k != p, this string is not in L, contradicting the regular assumption.",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_4",
+      "question": "Define Context-Free Grammar (CFG). What is an Ambiguous Grammar? Show that the grammar E -> E + E | E * E | (E) | id is ambiguous, and write its unambiguous grammar.",
+      "question_no": "Q5 (a)",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 3,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L3 (Apply)",
+      "co_mapping": "CO3",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-1",
+        "Jan/Feb 2025",
+        "July 2024"
+      ],
+      "repeat_frequency": "Very High (MQP-1 Question 5)",
+      "key_marking_points": [
+        "Formal 4-tuple definition of CFG: G = (V, T, P, S) (2 Marks)",
+        "Definition of Ambiguity (A grammar is ambiguous if there exists a string with two distinct parse trees or leftmost derivations) (2 Marks)",
+        "Proof of ambiguity for string 'id + id * id' showing 2 different parse trees (3 Marks)",
+        "Rewriting unambiguous grammar with precedence levels: E -> E + T | T, T -> T * F | F, F -> (E) | id (3 Marks)"
+      ],
+      "sample_answer_hint": "String 'id + id * id' can be parsed with + as root (evaluates * first) or * as root (evaluates + first). Two distinct parse trees prove ambiguity. Fix ambiguity by introducing tiers: E (sum), T (product), F (factors/parentheses).",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_5",
+      "question": "Explain the formal model of a single-tape standard Turing Machine with its 7-tuple representation. Design a Turing Machine that accepts the language L = {a^n b^n c^n | n >= 1}. Show transition table.",
+      "question_no": "Q9 (a)",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 5,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L3 (Apply)",
+      "co_mapping": "CO5",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-1",
+        "Jan/Feb 2025",
+        "July 2024"
+      ],
+      "repeat_frequency": "Very High (MQP-1 Question 9)",
+      "key_marking_points": [
+        "Formal 7-tuple definition: M = (Q, Sigma, Gamma, delta, q0, B, F) (3 Marks)",
+        "Logic of replacing 'a' with X, moving right to replace 'b' with Y, moving right to replace 'c' with Z, and rewinding to repeat (3 Marks)",
+        "Complete transition table or transition diagram (3 Marks)",
+        "Tracing sample input 'aabbcc' to halt state (1 Mark)"
+      ],
+      "sample_answer_hint": "Turing Machine has infinite tape. Start at leftmost 'a', mark as X, move right past remaining 'a's and Y's to find first 'b', mark as Y, move right past Z's to find first 'c', mark as Z. Rewind left to next unmarked 'a'. If all symbols correctly converted to XYZ, accept.",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1794661626305_gu3j_1",
+      "document_id": "doc_1794661626305_gu3j",
+      "question_no": "Q1 (a)",
+      "question": "Define and explain the core architectural principles of DBMS UNIT2 QUESTIONS LIST with a neat labeled block diagram. Discuss its relevance under the VTU syllabus.",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 1,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L2 (Understand)",
+      "co_mapping": "CO1",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-1",
+        "Jan/Feb 2025",
+        "July 2024"
+      ],
+      "repeat_frequency": "Very High (MQP Core Question)",
+      "key_marking_points": [
+        "Neat labeled architectural diagram (4 Marks)",
+        "Step-by-step conceptual description (4 Marks)",
+        "Engineering application and advantages (2 Marks)"
+      ],
+      "sample_answer_hint": "Structure answer with: 1) Definition; 2) Neatly labeled block diagram; 3) Core operational principles; 4) Two engineering use cases.",
+      "subject_id": "sub_1794656876708_c85r",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1794661626305_gu3j_2",
+      "question_no": "Q1 (b)",
+      "question": "Compare and contrast the primary methods and mechanisms used in DBMS UNIT2 QUESTIONS LIST. Prepare a detailed comparison table with technical trade-offs.",
+      "priority": "MUST_PREPARE",
+      "marks": 10,
+      "module": 1,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L3 (Apply)",
+      "co_mapping": "CO1",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-1",
+        "Jan/Feb 2024"
+      ],
+      "repeat_frequency": "High (Comparative Analysis)",
+      "key_marking_points": [
+        "Side-by-side comparison table with minimum 4 technical parameters (5 Marks)",
+        "Performance trade-offs analysis (3 Marks)",
+        "Real-world selection criteria (2 Marks)"
+      ],
+      "sample_answer_hint": "Use comparison parameters: Operational Principle, Time/Space Efficiency, Implementation Cost, and Preferred Industry Scenarios.",
+      "document_id": "doc_1794661626305_gu3j",
+      "subject_id": "sub_1794656876708_c85r",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1794661626305_gu3j_3",
+      "question_no": "Q2 (a)",
+      "question": "Explain the step-by-step procedural algorithm or mathematical formulation for DBMS UNIT2 QUESTIONS LIST. Trace its execution with sample values.",
+      "priority": "IMPORTANT",
+      "marks": 10,
+      "module": 1,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L3 (Apply)",
+      "co_mapping": "CO1",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-2",
+        "July/Aug 2023"
+      ],
+      "repeat_frequency": "High (Algorithmic / Analytical)",
+      "key_marking_points": [
+        "Mathematical formulation or algorithm pseudocode (5 Marks)",
+        "Trace execution with sample input values (3 Marks)",
+        "Complexity analysis (2 Marks)"
+      ],
+      "sample_answer_hint": "Clearly specify input and output structures. Write numbered algorithm steps followed by Big-O time and space complexity derivation.",
+      "document_id": "doc_1794661626305_gu3j",
+      "subject_id": "sub_1794656876708_c85r",
+      "is_saved": true
+    },
+    {
+      "id": "ext_doc_1794661626305_gu3j_4",
+      "question_no": "Q2 (b)",
+      "question": "What are the common error conditions, limitations, and security/reliability challenges encountered in DBMS UNIT2 QUESTIONS LIST? How are they mitigated in practice?",
+      "priority": "PYQ",
+      "marks": 10,
+      "module": 1,
+      "scheme": "2022 Scheme (Current)",
+      "blooms_level": "L2 (Understand)",
+      "co_mapping": "CO1",
+      "vtu_exam_years": [
+        "2022 Scheme MQP-2",
+        "Jan 2024"
+      ],
+      "repeat_frequency": "Standard VTU Pattern",
+      "key_marking_points": [
+        "Identification of 3 critical failure modes or limitations (4 Marks)",
+        "Mitigation and countermeasure strategies (4 Marks)",
+        "Industry best practices (2 Marks)"
+      ],
+      "sample_answer_hint": "Present each challenge with its corresponding architectural solution or protocol countermeasure.",
+      "document_id": "doc_1794661626305_gu3j",
+      "subject_id": "sub_1794656876708_c85r",
+      "is_saved": true
+    }
+  ]
+}
